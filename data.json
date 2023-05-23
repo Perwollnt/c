@@ -1,0 +1,56 @@
+{
+	"commands": {
+		"test": {
+			"example": "test",
+			"helpMessage": "test",
+			"commandType": 8,
+			"cooldown": "00:00:10",
+			"permissions": [2048],
+			"supportServerRoles": [],
+			"channelTypes": [0, 1],
+			"permiumStatus": null,
+			"permissionsMustHaveAll": false,
+			"isHiddenFromHelpMenu": false,
+			"isHiddenFromAPI": false
+		},
+		"help": {
+			"example": "test",
+			"helpMessage": "test",
+			"commandType": 8,
+			"cooldown": "00:00:10",
+			"permissions": [2048],
+			"supportServerRoles": [],
+			"channelTypes": [0, 1],
+			"permiumStatus": null,
+			"permissionsMustHaveAll": false,
+			"isHiddenFromHelpMenu": false,
+			"isHiddenFromAPI": false
+		},
+		"cat": {
+			"example": "test",
+			"helpMessage": "test",
+			"commandType": 8,
+			"cooldown": "00:00:10",
+			"permissions": [2048],
+			"supportServerRoles": [],
+			"channelTypes": [0, 1],
+			"permiumStatus": null,
+			"permissionsMustHaveAll": false,
+			"isHiddenFromHelpMenu": false,
+			"isHiddenFromAPI": false
+		},
+		"cat2": {
+			"example": "test",
+			"helpMessage": "test",
+			"commandType": 8,
+			"cooldown": "00:00:10",
+			"permissions": [2048],
+			"supportServerRoles": [],
+			"channelTypes": [0, 1],
+			"permiumStatus": null,
+			"permissionsMustHaveAll": false,
+			"isHiddenFromHelpMenu": false,
+			"isHiddenFromAPI": false
+		}
+	}
+}
