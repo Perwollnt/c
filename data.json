@@ -14,8 +14,8 @@
 			"isHiddenFromAPI": false
 		},
 		"help": {
-			"example": "test",
-			"helpMessage": "test",
+			"example": "help",
+			"helpMessage": "help",
 			"commandType": 8,
 			"cooldown": "00:00:10",
 			"permissions": [2048],
@@ -27,8 +27,8 @@
 			"isHiddenFromAPI": false
 		},
 		"cat": {
-			"example": "test",
-			"helpMessage": "test",
+			"example": "cat",
+			"helpMessage": "cat",
 			"commandType": 8,
 			"cooldown": "00:00:10",
 			"permissions": [2048],
@@ -40,8 +40,8 @@
 			"isHiddenFromAPI": false
 		},
 		"cat2": {
-			"example": "test",
-			"helpMessage": "test",
+			"example": "cat2",
+			"helpMessage": "cat2",
 			"commandType": 8,
 			"cooldown": "00:00:10",
 			"permissions": [2048],
