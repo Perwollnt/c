@@ -1,0 +1,31 @@
+{
+    "command_count": 2,
+    "commands": {
+        "test": {
+            "example": "test",
+            "helpMessage": "test",
+            "commandType": 8,
+            "cooldown": "00:00:10",
+            "permissions": [2048],
+            "supportServerRoles": [],
+            "channelTypes": [1, 0],
+            "premiumStatus": null,
+            "permissionsMustHaveAll": false,
+            "isHiddenFromHelpMenu": false,
+            "isHiddenFromAPI": false
+        },
+        "help": {
+            "example": "r!help",
+            "helpMessage": "Use this command if you are lost.",
+            "isHiddenFromAPI": false,
+            "commandType": 8,
+            "cooldown": "00:00:10",
+            "permissions": [2048],
+            "supportServerRoles": [],
+            "channelTypes": [1, 0],
+            "premiumStatus": null,
+            "permissionsMustHaveAll": false,
+            "isHiddenFromHelpMenu": false
+        }
+    }
+}
